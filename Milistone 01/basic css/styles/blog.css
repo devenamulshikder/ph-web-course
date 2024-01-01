@@ -1,0 +1,23 @@
+h3{
+    font-size: 20px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    margin: 50px;
+    border:10px solid teal ;
+    box-shadow: 10px 10px 20px 10px maroon;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.incident{
+    border: 2px solid rgb(194, 48, 0);
+    /* display: block; */
+    margin: 20p;
+
+}
+li{
+    display: inline;
+}
